@@ -1,2 +1,2 @@
 # javaPractica
-Codigo hecho en java de un Sistema de Control Escolar que sirve de Proyecto para la Unidad de Aprendizaje Java.
+Codigo hecho en java de un Sistema de Control Escolar hecho en clase para la Unidad de Aprendizaje Java.
